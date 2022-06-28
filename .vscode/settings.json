@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "array.h": "c",
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "atomic": "c",
+        "multi-lookup.h": "c"
+    }
+}
